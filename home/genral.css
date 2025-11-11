@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+}
+::selection {
+  background: #0071f8; /* background when text is selected */
+  color: #ffffff;
+}
+.container {
+  max-width: 140rem;
+  padding: 0 3rem;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+fieldset {
+  border: 0;
+  min-width: 0;
+  padding: 0;
+  margin: 0;
+}
