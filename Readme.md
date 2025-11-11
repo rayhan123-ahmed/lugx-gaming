@@ -1,1 +1,1 @@
-#This whole page creat eith only HTML and Css for learning process
+#This whole page creat With only HTML and Css for learning process
